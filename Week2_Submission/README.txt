@@ -1,6 +1,6 @@
 Digital Nurture 4.0 – DotNet FSE
 Week 2 - Hands-on Assignment Submission
-Submitted by: Sunu Mondal
+Submitted by: Sunirmal Mondal
 
 Tasks:
 - Advanced SQL (3 exercises with screenshots)
